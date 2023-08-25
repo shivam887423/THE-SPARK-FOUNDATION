@@ -7,3 +7,4 @@ This repository contains the tasks that I completed while working as an intern f
   
    * Internship Type - Work from Home
 
+# Tools/IDE : Python/Google Colab/Jupyter Notebook
